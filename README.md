@@ -1,4 +1,4 @@
-# 🛠️ LD_PRELOAD SSH Klein Dylan 3SI3
+# 🛠️ LD_PRELOAD SSH Klein Dylan et Dupont Lelian 3SI3
 
 ## 📌 Description
 Ce projet utilise **LD_PRELOAD** pour intercepter les identifiants SSH (`username/password`) lorsqu'un utilisateur se connecte à un serveur **OpenSSH**.  
